@@ -19,6 +19,7 @@ setup(
     extras_require = {
       'esendex': ['requests'],
       'twilio': ['twilio'],
+      'plivo': ['plivo'],
       'smssluzbacz': ['smssluzbacz-api']
     },
     zip_safe=False,
